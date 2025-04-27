@@ -1670,7 +1670,7 @@ label investigation:
                         ha "Cute!"
                         show hali smile
 
-                "Yes, I have multiply.":
+                "Yes, I have multiple.":
                     reader "Yes, I have a few cats."
 
                     show hali happy
@@ -2818,7 +2818,7 @@ label checkVyn:
                         reader "{i}I probably shouldn't bother him.{i}"
                         reader "{i}I doubt it was anything important other than just a broken chair.{i}"
 
-            "Fancy place sets" if plates:
+            "Fancy plate sets" if plates:
                 $ vynClues += 1
                 $ plates = False
 
