@@ -2,8 +2,8 @@
 
 To play the game
 1) Download all files
-2) Go into file
-3) Click on Areyoulockedin Application
+2) Unzip / Extract files
+4) Click on Areyoulockedin Application
 
 
 If none of my files work
