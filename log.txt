@@ -1,0 +1,49 @@
+2025-04-28 00:01:20 UTC
+Windows-10-10.0.26100
+Ren'Py 8.3.4.24120703
+
+Are you locked in?
+1.0
+Built at 2025-04-27 23:47:57 UTC
+
+Early init took 0.12s
+Loading error handling took 0.05s
+Loading script took 0.23s
+Loading save slot metadata took 0.22s
+Loading persistent took 0.00s
+Set script version to: (8, 3, 4)
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Dump and make backups took 0.00s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2240, 1400)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon(TM) Graphics'
+Version: b'4.6.0 Compatibility Profile Context 23.19.12.240216'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1299, 731) drawable=(1299, 731)
+Maximum texture size: 4096x4096
